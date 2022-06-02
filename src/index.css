@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.tic-tac-toc-btn {
+  height: 100px;
+  width: 100px;
+  font-size: 30px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.margin-left-16px {
+  margin-left: 16px;
+}
+
+.font-size-50px {
+  font-size: 50px;
+}
+
+.reset-btn {
+  margin-left: 32px;
+  height: 75px;
+  width: 200px;
+  border-radius: 15px;
+  background-color: blue;
+  color: white;
+  font-size: 35px;
+}
